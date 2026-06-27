@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jdiggstay
-- I’m interested in breaking into the health analytics and data science fields
+- I’m interested in breaking into the data analytics and data science fields
 - I’m currently expanding Python, HTML, and SQL knowledge and how to develop full-stack projects...
 
 <!---
